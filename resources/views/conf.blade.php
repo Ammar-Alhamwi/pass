@@ -8,7 +8,7 @@
 </head>
 <body>
 
-Well Done
+Well cscsDone
 Your information has been submitted successfully
 You will receive in coming day invitation email with instructions from RS4IT to book your flight.
 See you soon
